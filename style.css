@@ -77,14 +77,11 @@ ul {
   padding-left: 0px;
   }
 
-
-
 .botonmurano{
   background-color: #26613D;
   color: white;
   padding: 10px 30px;
   border-radius: 20px;
-  border: dotted
 }
 
 .botonmurano:hover {
