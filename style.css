@@ -35,10 +35,10 @@ a {
 
 a:hover {
 
-  transition: color 0.3s ease-in-out;
-  color: #1DDB69;
+  transform: scale(1.1)
+  /* color: #1DDB69;
   cursor: pointer;
-  font-weight: bold;
+  font-weight: bold; */
 }
 
 h2 {
