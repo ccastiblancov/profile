@@ -34,11 +34,9 @@ a {
 }
 
 a:hover {
-
-  transform: scale(1.1)
-  /* color: #1DDB69;
+  color: #1DDB69;
   cursor: pointer;
-  font-weight: bold; */
+  font-weight: bold;
 }
 
 h2 {
@@ -86,7 +84,7 @@ ul {
 }
 
 .botonmurano:hover {
-
+  transform: scale(1.1)
 }
 .text-center {
   text-align: center;
