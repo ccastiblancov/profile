@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-  transform: scale(1.1);
+  transform: rotate(1.1deg);
   color: #1DDB69;
   cursor: pointer;
   font-weight: bold;
