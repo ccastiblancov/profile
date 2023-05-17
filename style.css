@@ -1,8 +1,21 @@
 
 
-  @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
 
 body {
   background: #D6F4E2;
